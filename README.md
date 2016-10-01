@@ -1,2 +1,0 @@
-# solmak
-My first repository
